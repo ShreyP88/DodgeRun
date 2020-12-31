@@ -7,16 +7,17 @@ Use WASD to move and try your best to dodge enemies. The levels will increment e
 ## Details
 The game is based on the fundamentals of object oriented programming as it includes objects which help the game function in various diffrent ways. The game mostly relies on two methods, render and tick which generate graphics and allow for objects to access further stages of the game respectively. I also incorporated a LinkedList for the enemies which allows for easy removal of enemies or in my case, I cleared all enemies before the boss level in order to make the game fair. I utilized a HashMap but not for anything too complicated. The HashMap was used to access the music which plays in the menu and in the background of the game. 
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/intro.PNG" width=600>
+**Intro Screen**
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/character%20select.PNG" width=600>
-#### This portion of the game will allow you to select your character. The Wizard will move faster with less HP while the Knight will be slower with more HP.
+**This portion of the game will allow you to select your character. The Wizard will move faster with less HP while the Knight will be slower with more HP.**
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Level%201%20-%202.PNG" width=600>
-#### Following the selection of your character, enemies will begin to spawn periodically every round with an emergence of a super enemy every 4th level and a tracking enemy (cyan) at level 5 (green) in order to prevent 'camping.'
+**Following the selection of your character, enemies will begin to spawn periodically every round with an emergence of a super enemy every 4th level and a tracking enemy (cyan) at level 5 (green) in order to prevent 'camping.'**
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Before%20Health%20Refill.PNG" width=600>
-#### Here is an example of the different enemies as well as a display of using the shop effectively. 
+**Here is an example of the different enemies as well as a display of using the shop effectively.**
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/after%20pause.PNG" width=600>
-### As you can see, my health has no been refilled.
+**As you can see, my health has been refilled.**
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Boss.PNG" width=600>
-### At level 10, a boss will appear and every level after will continue to spawn enemies with the same rules mentioned before. 
+**At level 10, a boss will appear and every level after will continue to spawn enemies with the same rules mentioned before.**
 
 
 
