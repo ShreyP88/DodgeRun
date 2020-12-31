@@ -16,8 +16,8 @@ The game is based on the fundamentals of object oriented programming as it inclu
 
 #### Enemies
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Level%201%20-%202.PNG" width=600>
-**Following the selection of your character, enemies will begin to spawn periodically every round with an emergence of a super enemy every 4th level and a tracking enemy (cyan) at level 5 (green) in order to prevent 'camping.'**
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Before%20Health%20Refill.PNG" width=600>
+**Following the selection of your character, enemies will begin to spawn periodically every round with an emergence of a super enemy (cyan) which does more damage and moves faster every 4th level and a tracking enemy at level 5 (green) in order to prevent 'camping.'**
 
 #### Using the Shop
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/after%20pause.PNG" width=600>
