@@ -12,20 +12,20 @@ The game is based on the fundamentals of object oriented programming as it inclu
 
 #### Character Selection 
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/character%20select.PNG" width=600>
-**This portion of the game will allow you to select your character. The Wizard will move faster with less HP while the Knight will be slower with more HP.**
+This portion of the game will allow you to select your character. The Wizard will move faster with less HP while the Knight will be slower with more HP.
 
 #### Enemies
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Level%201%20-%202.PNG" width=600>
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Before%20Health%20Refill.PNG" width=600>
-**Following the selection of your character, enemies will begin to spawn periodically every round with an emergence of a super enemy (cyan) which does more damage and moves faster every 4th level and a tracking enemy at level 5 (green) in order to prevent 'camping.'**
+Following the selection of your character, enemies will begin to spawn periodically every round with an emergence of a super enemy (cyan) which does more damage and moves faster every 4th level and a tracking enemy at level 5 (green) in order to prevent 'camping.'
 
 #### Using the Shop
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/after%20pause.PNG" width=600>
-**Here is an example of the different enemies as well as a display of using the shop effectively. As you can see, my health has been refilled.**
+Here is an example of the different enemies as well as a display of using the shop effectively. As you can see, my health has been refilled.
 
 #### The Boss
 <img src="https://github.com/ShreyP88/DodgeRun/blob/master/game%20pics/Boss.PNG" width=600>
-**At level 10, a boss will appear and every level after will continue to spawn enemies with the same rules mentioned before.**
+At level 10, a boss will appear and every level after will continue to spawn enemies with the same rules mentioned before.
 
 
 
